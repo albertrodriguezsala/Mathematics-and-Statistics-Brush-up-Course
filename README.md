@@ -1,6 +1,6 @@
 
 # Mathematics and Statistics Brush-up. IDEA program, Universitat Autonoma de Barcelona.
-Lecture notes for the course Mathematics and Statistics Brush-up, IDEA PhD program, fall 2020, 2021.
+Lecture notes for the course Mathematics and Statistics Brush-up in the MSc in Economic Analysis (IDEA PhD track) at the Universitat Autonoma de Barcelona. Notes for the courses taught in fall 2020, 2021.
 
 This short course covers introductory knowledge in Mathematics and Statistics to start a PhD in Economics. The purpose of the course is to smooth the transition from undergrad programs to PhD programs in economics.
 
