@@ -13,3 +13,6 @@ by Tomás Rodríguez; at Universitat Autonoma de Barcelona. Conceptual mistakes,
 errors are mine.
 
 ## Author
+Albert Rodriguez-Sala
+albert.rodriguez@ed.ac.uk
+
